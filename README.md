@@ -68,10 +68,15 @@ The dataset consists of multiple tables containing:
 ✅ Recommendations
 
 ✔ Leverage Peak Seasons: Implement targeted promotions in May, July, and August.
+
 ✔ Boost Off-Peak Sales: Offer cashback/discounts in September & October.
+
 ✔ Expand in Low-Performing States: Focus on increasing sales in RR, AP, AM, AC, RO, and TO.
+
 ✔ Reduce Delivery Delays: Optimize supply chain & introduce real-time tracking.
+
 ✔ Optimize Freight Costs: Negotiate better shipping rates & implement bulk shipping discounts.
+
 ✔ Promote EMI & Alternative Payment Methods: Increase awareness of installment plans & offer incentives for UPI and voucher payments.
 
 🛠️ Installation & Setup
