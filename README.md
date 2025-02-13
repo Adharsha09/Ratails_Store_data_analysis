@@ -8,57 +8,62 @@ This project analyzes e-commerce sales data from Target's operations in Brazil u
 
 The dataset consists of multiple tables containing:
 
-customers: Customer details (ID, location, etc.).
+1.  customers: Customer details (ID, location, etc.).
 
-orders: Order details, timestamps, and statuses.
+2. orders: Order details, timestamps, and statuses.
 
-order_items: Product details, prices, and freight values.
+3. order_items: Product details, prices, and freight values.
 
-payments: Payment methods and installment details.
+4. payments: Payment methods and installment details.
 
-order_reviews: Customer feedback and ratings.
+5. order_reviews: Customer feedback and ratings.
 
-geolocation:Lattitude,logitude , State , City & Zip_Code.
+5. geolocation:Lattitude,logitude , State , City & Zip_Code.
 
-products: Product details (ID , Category, Photos Count, Etc)
+6. products: Product details (ID , Category, Photos Count, Etc)
 
-Sellers : Seller details (ID, City, State, Zip_Code)
+7. Sellers : Seller details (ID, City, State, Zip_Code)
 
 📊 Key Analysis Performed
 
 1️⃣ Initial Exploration
 
-Time range analysis: Identified first and last order dates.
+	Time range analysis: Identified first and last order dates.
 
-Customer distribution: Orders received from 4,119 cities across 27 states.
+	Customer distribution: Orders received from 4,119 cities across 27 states.
 
-Review distribution: Most orders received 5-star ratings.
+	Review distribution: Most orders received 5-star ratings.
+
 
 2️⃣ Sales & Growth Trends
 
-Year-over-Year (YoY) Growth: 19.72% increase in orders from 2017 to 2018.
+	Year-over-Year (YoY) Growth: 19.72% increase in orders from 2017 to 2018.
 
-Monthly seasonality: Orders peak in May, July, and August.
+	Monthly seasonality: Orders peak in May, July, and August.
 
-Peak order time: Majority of orders placed between 1 PM – 6 PM.
+	Peak order time: Majority of orders placed between 1 PM – 6 PM.
+
 
 3️⃣ Regional Sales Analysis
 
-State-wise distribution: SP has the highest sales; RR, AP, and AC have the lowest.
+	State-wise distribution: SP has the highest sales; RR, AP, and AC have the lowest.
 
-Freight costs: RR has the highest average freight cost but low total expenditure.
+	Freight costs: RR has the highest average freight cost but low total expenditure.
+
 
 4️⃣ Payments Analysis
 
-Payment method usage: 76.94% of transactions were made via credit card.
+	Payment method usage: 76.94% of transactions were made via credit card.
 
-Installments trend: 51,170 orders were paid through EMI.
+	Installments trend: 51,170 orders were paid through EMI.
+
 
 5️⃣ Delivery & Logistics Optimization
 
-Longest delivery: 210 days; some orders were fulfilled 188 days late.
+	Longest delivery: 210 days; some orders were fulfilled 188 days late.
 
-Fastest states: AL state customers received orders ~7.9 days earlier than expected.
+	Fastest states: AL state customers received orders ~7.9 days earlier than expected.
+
 
 ✅ Recommendations
 
